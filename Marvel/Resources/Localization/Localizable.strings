@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Marvel
+
+  Created by Sanket Khairnar on 07/12/21.
+  Copyright © 2021 Globant. All rights reserved.
+*/
+// Screen Titles Strings
+"character_list_title" = "Characters";
+"character_detail_title" = "Character Details";
+"button_title_Ok" = "OK";
+
+// Generic API Error Strings
+"character_list_error" = "Unable to load the Character List, please try again after sometime";
+"character_detail_error" = "Unable to load the Character Details, please try again after sometime";
